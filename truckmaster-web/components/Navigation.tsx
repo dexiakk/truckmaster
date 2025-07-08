@@ -48,7 +48,7 @@ export default function Navigation() {
 
           <div className="flex items-center space-x-4">
             <Button asChild className="hidden sm:inline-flex bg-yellow-500 hover:bg-yellow-600 text-black">
-              <a href="tel:+48123456789">
+              <a href="tel:+48730139777">
                 <Phone className="mr-2 h-4 w-4" />
                 Zadzwoń teraz
               </a>

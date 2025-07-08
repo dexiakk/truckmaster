@@ -113,16 +113,11 @@ export default function ServicesPage() {
             </p>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-center">
             {[
-              "Goszcza",
-              "Krzeszowice",
-              "Alwernia",
-              "Trzebinia",
-              "Chrzastowice",
-              "Rudawa",
-              "Jerzmanowice",
-              "Sułoszowa",
+              "Województwo Małopolskie",
+              "Województwo Śląskie",
+              "Województwo Świętokrzyskie",
             ].map((city, index) => (
               <div key={index} className="bg-gray-700 rounded-lg p-4">
                 <span className="text-white font-medium">{city}</span>
@@ -139,9 +134,9 @@ export default function ServicesPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg" className="bg-black hover:bg-gray-800 text-white text-lg px-8 py-6">
-              <a href="tel:+48123456789">
+              <a href="tel:+48730139777">
                 <Phone className="mr-2 h-5 w-5" />
-                Zadzwoń: +48 123 456 789
+                Zadzwoń: +48 730 139 777
               </a>
             </Button>
             <Button

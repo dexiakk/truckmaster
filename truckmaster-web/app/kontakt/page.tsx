@@ -35,10 +35,10 @@ export default function ContactPage() {
                       <div>
                         <h3 className="text-lg font-semibold text-white">Telefon</h3>
                         <a
-                          href="tel:+48123456789"
+                          href="tel:+48730139777"
                           className="text-yellow-500 hover:text-yellow-400 transition-colors text-lg"
                         >
-                          +48 123 456 789
+                          +48 730 139 777
                         </a>
                         <p className="text-gray-400 text-sm">Dostępny 24/7</p>
                       </div>
@@ -128,7 +128,7 @@ export default function ContactPage() {
                   size="lg"
                   className="bg-yellow-500 hover:bg-yellow-600 text-black text-lg px-8 py-6 flex-1"
                 >
-                  <a href="tel:+48123456789">
+                  <a href="tel:+48730139777">
                     <Phone className="mr-2 h-5 w-5" />
                     Zadzwoń teraz
                   </a>
@@ -197,18 +197,13 @@ export default function ContactPage() {
               <CardContent className="p-6">
                 <h3 className="text-xl font-bold text-white mb-4">Obszar obsługi</h3>
                 <p className="text-gray-400 mb-4">
-                  Obsługujemy Goszczę i okoliczne miejscowości w promieniu kilkudziesięciu kilometrów:
+                  Obsługujemy województwa Małopolskie, Śląskie i Świętokrzyskie oraz okoliczne miejscowości w promieniu kilkudziesięciu kilometrów:
                 </p>
                 <div className="grid grid-cols-2 gap-2 text-sm">
                   {[
-                    "Goszcza",
-                    "Krzeszowice",
-                    "Alwernia",
-                    "Trzebinia",
-                    "Chrzastowice",
-                    "Rudawa",
-                    "Jerzmanowice",
-                    "Sułoszowa",
+                    "Województwo Małopolskie",
+                    "Województwo Śląskie",
+                    "Województwo Świętokrzyskie",
                   ].map((city, index) => (
                     <div key={index} className="flex items-center text-gray-300">
                       <div className="w-2 h-2 bg-yellow-500 rounded-full mr-2"></div>
@@ -229,11 +224,11 @@ export default function ContactPage() {
             Ci szybką pomoc.
           </p>
           <a
-            href="tel:+48123456789"
+            href="tel:+48730139777"
             className="inline-flex items-center justify-center rounded-md bg-white hover:bg-gray-100 text-red-600 text-xl font-bold px-12 py-6 transition-colors"
           >
             <Phone className="mr-3 h-6 w-6" />
-            ZADZWOŃ: +48 123 456 789
+            ZADZWOŃ: +48 730 139 777
           </a>
         </div>
       </div>

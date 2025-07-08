@@ -21,13 +21,12 @@ export default function HomePage() {
             </div>
 
             <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-              Profesjonalny mobilny serwis opon dla ciężarówek i maszyn rolniczych. Działamy całodobowo w województwie Małopolskim, Śląskim, Świętokrzyskim i
-              okolicach.
+              Profesjonalny mobilny serwis opon dla ciężarówek i maszyn rolniczych. Działamy całodobowo w województwie Małopolskim, Śląskim i Świętokrzyskim.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-black text-lg px-8 py-6">
-                <a href="tel:+48123456789">
+                <a href="tel:+48730139777">
                   <Phone className="mr-2 h-5 w-5" />
                   Zadzwoń teraz
                 </a>
@@ -47,7 +46,7 @@ export default function HomePage() {
               <div className="flex items-center space-x-2 text-gray-300">
                 <Phone className="h-5 w-5 text-yellow-500" />
                 <a href="tel:+48123456789" className="hover:text-yellow-500 transition-colors">
-                  +48 123 456 789
+                  +48 730 139 777
                 </a>
               </div>
               <div className="flex items-center space-x-2 text-gray-300">
@@ -192,9 +191,9 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg" className="bg-black hover:bg-gray-800 text-white text-lg px-8 py-6">
-              <a href="tel:+48123456789">
+              <a href="tel:+48730139777">
                 <Phone className="mr-2 h-5 w-5" />
-                Zadzwoń: +48 123 456 789
+                Zadzwoń: +48 730 139 777
               </a>
             </Button>
             <Button

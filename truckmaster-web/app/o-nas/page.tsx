@@ -12,7 +12,7 @@ export default function AboutPage() {
           </h1>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
             Truck Master to profesjonalna firma świadcząca mobilne usługi wulkanizacyjne dla pojazdów ciężarowych i
-            maszyn rolniczych na terenie Małopolski i okolic.
+            maszyn rolniczych na terenie województwa Małopolskiego, Śląskiego oraz Świętokrzyskiego.
           </p>
         </div>
 

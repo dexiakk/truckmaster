@@ -150,9 +150,9 @@ export default function FAQPage() {
               <div>
                 <h3 className="text-lg font-semibold text-white mb-2">Lokalizacja</h3>
                 <p className="text-gray-400">
-                  Goszcza i okolice
+                  Małopolska
                   <br />
-                  Małopolski
+                  Śląsk i Świętokrzyskie
                 </p>
               </div>
             </div>
@@ -166,11 +166,11 @@ export default function FAQPage() {
             W przypadku awarii na drodze nie czekaj - skontaktuj się z nami natychmiast. Jesteśmy dostępni 24/7.
           </p>
           <a
-            href="tel:+48123456789"
+            href="tel:+48730139777"
             className="inline-flex items-center justify-center rounded-md bg-white hover:bg-gray-100 text-red-600 text-xl font-bold px-12 py-6 transition-colors"
           >
             <Phone className="mr-3 h-6 w-6" />
-            +48 123 456 789
+            +48 730 139 777
           </a>
         </div>
       </div>

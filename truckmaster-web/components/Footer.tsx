@@ -13,7 +13,7 @@ export default function Footer() {
               <span className="text-xl font-bold">Truck Master</span>
             </div>
             <p className="text-gray-400 text-sm">
-              Profesjonalny mobilny serwis opon dla ciężarówek i maszyn rolniczych. Działamy 24/7 w Małopolsce i okolicach.
+              Profesjonalny mobilny serwis opon dla ciężarówek i maszyn rolniczych. Działamy 24/7 w województwie Małopolskim, Śląskim i Świętokrzyskim.
             </p>
           </div>
 
@@ -54,8 +54,8 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2 text-sm">
                 <Phone className="h-4 w-4 text-yellow-500" />
-                <a href="tel:+48123456789" className="text-gray-400 hover:text-yellow-500 transition-colors">
-                  +48 123 456 789
+                <a href="tel:+48730139777" className="text-gray-400 hover:text-yellow-500 transition-colors">
+                  +48 730 139 777
                 </a>
               </div>
               <div className="flex items-center space-x-2 text-sm">

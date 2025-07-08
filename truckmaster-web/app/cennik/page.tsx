@@ -213,9 +213,9 @@ export default function PricingPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg" className="bg-black hover:bg-gray-800 text-white text-lg px-8 py-6">
-              <a href="tel:+48123456789">
+              <a href="tel:+48730139777">
                 <Phone className="mr-2 h-5 w-5" />
-                Zadzwoń: +48 123 456 789
+                Zadzwoń: +48 730 139 777
               </a>
             </Button>
             <Button
