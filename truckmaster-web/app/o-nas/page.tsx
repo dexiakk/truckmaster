@@ -42,7 +42,7 @@ export default function AboutPage() {
           <div className="relative">
             <div className="aspect-square bg-gray-800 rounded-lg overflow-hidden">
               <img
-                src="/placeholder.svg?height=500&width=500"
+                src="/about-us.jpg?height=500&width=500"
                 alt="Truck Master - mobilny serwis"
                 className="w-full h-full object-cover"
               />
